@@ -1,0 +1,99 @@
+/* .header-2 {
+background: rgba(151, 164, 145, 0.6);
+height: 10vh;
+width: 100%;
+} */
+
+.footer, .header {
+background: rgba(37, 35, 35, 0.7);
+height: 10vh;
+width: 100% !important;
+}
+
+.minha-row{
+  height: 80vh;
+}
+main{ 
+  background: linear-gradient(180deg, rgba(175, 209, 168, 0.7) 0%, rgba(255, 255, 255, 0) 100%);
+
+}
+
+.tamanho-imagem{
+width: 126px;
+height: 126px;
+text-align: center;
+}
+.tamanho-exercicio{
+  width: 75px;
+  height: 75px;
+
+}
+
+.tamanho-avanco{
+  width: 75px;
+  height: 75px;
+  margin-left:2px ;
+}
+
+.tamanho-monitora{
+  width: 75px;
+  height: 75px;
+
+}
+
+.tamanho-playlist{
+  width: 75px;
+  height: 75px;
+  margin-left:2px ;
+}
+
+.tamanho-home{
+  width: 35px;
+  height: 35px;
+}
+
+.tamanho-configura{
+  width: 35px;
+  height: 35px;
+ 
+
+}
+
+.tamanho-notifica{
+  width: 35px;
+  height: 35px;
+}
+
+.tamanho-yoga{
+  width: 40px;
+  height: 40px;
+}
+
+.tamanho-ciclismo{
+  width: 40px;
+  height: 40px;
+}
+
+.tamanho-aerobica{
+  width: 40px;
+  height: 40px;
+}
+
+.tamanho-caminhada{
+  width: 40px;
+  height: 40px;
+}
+
+.tamanho-calendario{
+  width: 39px;
+  height: 39px;
+}
+
+.tamanho-google{
+  width: 39px;
+  height: 35px;
+}
+
+.matheus {
+  background-color: blue;
+}
